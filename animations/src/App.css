@@ -1,0 +1,9 @@
+body {
+  background-color: lightskyblue;
+}
+
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
